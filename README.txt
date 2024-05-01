@@ -1,1 +1,0 @@
-Install terlebih dahulu requirement.txt nya
